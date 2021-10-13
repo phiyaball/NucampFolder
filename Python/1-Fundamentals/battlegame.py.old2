@@ -1,0 +1,28 @@
+#!/usr/bin/python3
+
+#chooose a race
+wizard = "wizard"
+elf = "elf"
+human = "human"
+
+#damage
+wizard_hp = 70
+elf_hp = 100
+human_hp = 150
+
+drag_hp = 300
+
+#user input to choose race
+print(wizard)
+print(elf)
+print(human)
+character = input("Choose your race:")
+print("you chose " + character)
+
+# while loop to check correct answers
+char = 0
+while char > 3 or char < 1:
+    char = int(input("Choose your character: "))
+    if char == 1:
+        print("You have chosen wizard")
+        break

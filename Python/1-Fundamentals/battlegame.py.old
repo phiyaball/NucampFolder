@@ -1,0 +1,25 @@
+#!/usr/bin/python3
+
+#chooose a race
+
+race =['mage', 'elf','human']
+
+#damage
+char1_hp = 70
+char2_hp = 100
+char3_hp = 150
+
+drag_hp = 300
+
+#user input to choose race
+print(race:1)
+print(race:2)
+print(race:3)
+character = input("Choose your race:")
+print(character)
+
+# while loop to check correct answers
+
+character 
+while character
+
