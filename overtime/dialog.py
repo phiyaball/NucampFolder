@@ -13,4 +13,3 @@ def greetings():
     print("Suddenly a voice calls out to you")
     time.sleep(1)
     print("\n who goes there?!")
-

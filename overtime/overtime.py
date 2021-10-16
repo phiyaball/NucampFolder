@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 
+<<<<<<< HEAD
 from emoji import emojize
 from dialog import greetings
 from animation import animate_t
